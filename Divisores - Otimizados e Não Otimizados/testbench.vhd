@@ -1,7 +1,13 @@
 -- SISTEMAS DIGITAIS 2020.2
 -- MINI-PROJETO DA SEMANA 10 -  Top level design entity
 -- 24/04/2021
--- Sabe-se que o método mais simples, no entanto, consiste em contar quantas vezes podemos subtrair o divisor do dividendo e é conhecido como método das subtrações sucessivas,ou seja, a divisão não otimizada. Com os resultados, pode-se perceber que o divisor não otimizado realizou a operação mais rápido que o otimizado. O otimizado trabalha com a resolução de bits, a resolução ligada aos ciclos de clock, ou seja, vai ter sempre um clock definido, para números grandes, por exemplo, vai levar 8 ciclos de clock caso seja 8 bits. Já na divisão não otimizada, o resto é menor que o dividendo e possui um ponto  que é: consumir mais ciclos de clock quando a diferença dos números (entre dividendo e divisor) é maior.
+-- Sabe-se que o método mais simples, no entanto, 
+--consiste em contar quantas vezes podemos subtrair o divisor do dividendo e é conhecido como método das 
+--subtrações sucessivas,ou seja, a divisão não otimizada. Com os resultados, 
+--pode-se perceber que o divisor não otimizado realizou a operação mais rápido que o otimizado. O otimizado trabalha com a resolução de bits, 
+--a resolução ligada aos ciclos de clock, ou seja, vai ter sempre um clock definido, para números grandes, por exemplo, 
+--vai levar 8 ciclos de clock caso seja 8 bits. Já na divisão não otimizada, o resto é menor que o dividendo e possui um ponto  que é:
+--consumir mais ciclos de clock quando a diferença dos números (entre dividendo e divisor) é maior.
 
 
 library IEEE;
