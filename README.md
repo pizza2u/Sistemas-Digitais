@@ -4,4 +4,4 @@ Projetos em VHDL
 Sistemas Digitais - 2020.1
 
 
-![foto](https://br.mouser.com/images/marketingid/2018/img/186527521.png?v=031022.1146)
+![foto](http://wiki.icmc.usp.br/images/7/7d/DE2-115.jpg)
