@@ -3,5 +3,6 @@ Projetos em VHDL
 
 Sistemas Digitais - 2020.1
 
-
-![foto](http://wiki.icmc.usp.br/images/7/7d/DE2-115.jpg)
+<p align="center">
+  <img src="https://c.tenor.com/qmcjcT92FBgAAAAd/fpga.gif" width="450"/> 
+</p>
